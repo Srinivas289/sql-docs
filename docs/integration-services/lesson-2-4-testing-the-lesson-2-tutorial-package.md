@@ -45,7 +45,7 @@ Before you test the package you should verify that the control and data flows in
 2.  After the package has completed running, on the **Debug** menu, click **Stop Debugging**.  
   
 ## Next Lesson  
-[Lesson 5: Add SSIS Package Configurations for the Package Deployment Model](../integration-services/lesson-5-add-ssis-package-configurations-for-the-package-deployment-model.md)  
+[Lesson 3: Add Logging with SSIS](../integration-services/lesson-3-add-logging-with-ssis.md)  
   
 ## See Also  
 [Execution of Projects and Packages](~/integration-services/packages/deploy-integration-services-ssis-projects-and-packages.md)  

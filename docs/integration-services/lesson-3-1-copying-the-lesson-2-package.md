@@ -38,7 +38,7 @@ In this task, you will create a copy of the Lesson 2.dtsx package that you creat
   
 7.  In the Properties window, update the **Name** property to **Lesson 3**.  
   
-8.  Click the box for the **ID** property, and then in the list, click **<Generate New ID>**.  
+8.  Click the box for the **ID** property, and then in the list, click **<<Generate New ID>>**.  
   
 ### To add the completed Lesson2 package  
   
